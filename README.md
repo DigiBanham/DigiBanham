@@ -5,7 +5,6 @@
 ### IT Infrastructure • Cybersecurity • Cloud Technology
 
 **Building practical skills. Documenting the process. Growing one project at a time.**
-
 <br>
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
@@ -16,6 +15,8 @@
 
 ![CompTIA A+ Certified](https://img.shields.io/badge/CompTIA-A%2B%20Certified-brightgreen?style=flat-square)
 ![CompTIA Network+](https://camo.githubusercontent.com/7b797bbc28f14321ef9230fb4c683acd2660a93761a2ed881c74ce3eae9b4516/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6d705449412d4e6574776f726b253242253230696e25323070726f67726573732d6f72616e67653f7374796c653d666c61742d737175617265)
+
+Bilingual: English • Spanish
 
 </div>
 
