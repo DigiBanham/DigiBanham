@@ -78,7 +78,7 @@ A hands-on Windows infrastructure project focused on deploying and administering
 - Group Policy and password policies
 - Windows Server Core administration using PowerShell
 
-📂 **[Explore the Active Directory Homelab Repository](https://github.com/DigiBanham/Active-Directory-DS)**
+📂 **[Explore the Active Directory Homelab Repository](https://github.com/DigiBanham/Active-Directory-DS-Portfolio)**
 
 ---
 
